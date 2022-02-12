@@ -27,3 +27,9 @@ URL do curso -> [Design Patterns Python I - Boas Práticas de Programação](htt
 
 ### 01 - Taxação
 * Criar mais imposto.
+
+## 04 - Comportamentos Compostos por Outros Comportamento e o Decorator &#x1F516;
+* Usar ***decorator***.
+
+### 01 - Decorator
+* Criando novos métodos.
