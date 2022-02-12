@@ -4,7 +4,7 @@ Curso da Alura sobre boas práticas de programação no Python
 
 ## Objetivo Final &#x1F3AF;
 
-Criar um desconto de acordo com os items
+Criar mini projetos abordando padrões de projeto diferentes
 
 URL do curso -> [Design Patterns Python I - Boas Práticas de Programação](https://cursos.alura.com.br/course/design-patterns-python)
 
@@ -21,3 +21,9 @@ URL do curso -> [Design Patterns Python I - Boas Práticas de Programação](htt
 
 ### 01 - Propriedades
 * Criar a classe `discounts`.
+
+## 03 - Códigos Parecidos e o Template Method &#x1F516;
+* Usar o padrão ***Template Method***.
+
+### 01 - Taxação
+* Criar mais imposto.
