@@ -40,8 +40,14 @@ URL do curso -> [Design Patterns Python I - Boas Práticas de Programação](htt
 ### 01 - State
 * Criar estados da classe `Budget`.
 
-## 06 - Criação de Objetos e Builder
+## 06 - Criação de Objetos e Builder &#x1F516;
 * Usar o ***Builder***.
 
 ### 01 - Builder
 * Passar parâmetros opcionais.
+
+## 07 - Executando Diferentes Ações e o Observer &#x1F516;
+* Usar o ***Observer***.
+
+### 01 - Observer
+* Classe `Invoice`.
