@@ -35,6 +35,13 @@ URL do curso -> [Design Patterns Python I - Boas Práticas de Programação](htt
 * Criando novos métodos.
 
 ## 05 - Estados que Variam e o State &#x1F516;
+* Usar ***State***.
 
 ### 01 - State
 * Criar estados da classe `Budget`.
+
+## 06 - Criação de Objetos e Builder
+* Usar o ***Builder***.
+
+### 01 - Builder
+* Passar parâmetros opcionais.
